@@ -17,3 +17,28 @@
         text-align: center;
         background-color: rgba(0, 0, 0, 0.61);
 }
+
+.fmain{
+    position: relative;
+}
+.fa-circle-chevron-left{
+    font-size: 250%;
+    position: absolute;
+    top: 50%;
+}
+
+.fa-circle-chevron-right {
+    font-size: 250%;
+    position: absolute;
+    top: 50%;
+    right: 0%;
+    width: auto;
+}
+
+.mfooter {
+    background-color: rgb(4, 0, 27);
+    color: white;
+    height: 400px;
+    display: flex;
+    align-items: center;
+}
